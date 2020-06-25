@@ -1,0 +1,372 @@
+B R I C K  W O R K S H O P  V0.2.0.0
+
+0 0 0
+0.02 0.06 0.19 1
+0.49 0.70 0.90
+100
+400
+
+-7 -8 0 14 15 4 0.19 0.06 0.02 1
+	+NAME brick0
+-7 -12 0 14 4 4 0.36 0.11 0.05 1
+	+NAME brick1 - Copy
+	+ROT 270
+	+SHAPE slope
+-7 7 0 14 4 4 0.36 0.11 0.05 1
+	+NAME brick1 - Copy - Copy
+	+ROT 90
+	+SHAPE slope
+-11 -8 0 4 15 4 0.36 0.11 0.05 1
+	+NAME brick1 - Copy - Copy - Copy - Copy
+	+SHAPE slope
+-11 7 0 4 4 1 0.96 0.96 0.96 1
+	+NAME brick10
+	+SHAPE cylinder
+-10 8 0 2 2 20 0.96 0.96 0.96 1
+	+NAME brick10 - Copy
+	+SHAPE cylinder
+7 7 0 4 4 1 0.96 0.96 0.96 1
+	+NAME brick10 - Copy
+	+SHAPE cylinder
+8 8 0 2 2 20 0.96 0.96 0.96 1
+	+NAME brick10 - Copy - Copy
+	+SHAPE cylinder
+7 -12 0 4 4 1 0.96 0.96 0.96 1
+	+NAME brick10 - Copy - Copy
+	+SHAPE cylinder
+8 -11 0 2 2 20 0.96 0.96 0.96 1
+	+NAME brick10 - Copy - Copy - Copy
+	+SHAPE cylinder
+-11 -12 0 4 4 1 0.96 0.96 0.96 1
+	+NAME brick10 - Copy - Copy - Copy
+	+SHAPE cylinder
+-10 -11 0 2 2 20 0.96 0.96 0.96 1
+	+NAME brick10 - Copy - Copy - Copy - Copy
+	+SHAPE cylinder
+7 -8 0 4 15 4 0.36 0.11 0.05 1
+	+NAME brick1 - Copy - Copy - Copy - Copy - Copy
+	+ROT 180
+	+SHAPE slope
+-10 -12 20 20 22 1 0.19 0.06 0.02 1
+	+NAME brick0 - Copy
+-7 -49 -0.90 13 37 1 0.30 0.32 0.34 1
+	+NAME brick21
+17 -21 0 33 4 4 0.30 0.32 0.34 1
+	+NAME brick23
+17 -50 0 4 29 4 0.30 0.32 0.34 1
+	+NAME brick23 - Copy
+18 -50 4 1 10 11 0.30 0.32 0.34 0.71
+	+NAME brick23 - Copy - Copy
+17 -50 15 4 29 4 0.30 0.32 0.34 1
+	+NAME brick23 - Copy - Copy
+18 -40 10 1 9 5 0.30 0.32 0.34 0.71
+	+NAME brick23 - Copy - Copy - Copy
+18 -31 4 1 12 11 0.30 0.32 0.34 0.71
+	+NAME brick23 - Copy - Copy - Copy
+19 -20 4 12 1 11 0.30 0.32 0.34 0.71
+	+NAME brick23 - Copy - Copy - Copy - Copy
+17 -21 15 33 4 4 0.30 0.32 0.34 1
+	+NAME brick23 - Copy - Copy - Copy
+16 -50 17 1 33 1 0 0.34 0.66 1
+	+NAME brick23 - Copy - Copy - Copy
+17 -17 17 33 1 1 0.61 0 0.42 1
+	+NAME brick23 - Copy - Copy - Copy - Copy
+38 -20 4 12 1 11 0.30 0.32 0.34 0.71
+	+NAME brick23 - Copy - Copy - Copy - Copy - Copy
+31 -20 10 7 1 5 0.30 0.32 0.34 0.71
+	+NAME brick23 - Copy - Copy - Copy - Copy - Copy - Copy
+12 -39 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35
+	+SHAPE pole
+12 -36 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35 - Copy
+	+SHAPE pole
+12 -42 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35 - Copy
+	+SHAPE pole
+12 -30 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35 - Copy - Copy - Copy
+	+SHAPE pole
+12 -27 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35 - Copy - Copy - Copy - Copy
+	+SHAPE pole
+12 -24 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35 - Copy - Copy - Copy - Copy - Copy
+	+SHAPE pole
+12 -21 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35 - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE pole
+11.50 -24.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43
+	+SHAPE dome
+11.50 -21.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43 - Copy
+	+SHAPE dome
+11.50 -27.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43 - Copy - Copy
+	+SHAPE dome
+11.50 -30.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43 - Copy - Copy - Copy
+	+SHAPE dome
+11.50 -33.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43 - Copy - Copy - Copy - Copy
+	+SHAPE dome
+11.50 -36.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43 - Copy - Copy - Copy - Copy - Copy
+	+SHAPE dome
+11.50 -39.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43 - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE dome
+11.50 -42.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43 - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE dome
+12 -33 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35 - Copy - Copy
+	+SHAPE pole
+12 -45 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35 - Copy - Copy
+	+SHAPE pole
+11.50 -45.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE dome
+12 -48 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35 - Copy - Copy - Copy
+	+SHAPE pole
+11.50 -48.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE dome
+14 -50 4 3 36 0.30 0.37 0.46 0.55 1
+	+NAME brick56
+	+SHAPE plate
+-6 -53 0 11 4 14 0.87 0 0.05 0.71
+	+NAME brick57
+	+ROT 90
+	+SHAPE slope
+5 -53 0 1 4 14 0.30 0.32 0.34 1
+	+NAME brick57 - Copy
+	+ROT 90
+	+SHAPE slope
+-7 -53 0 1 4 14 0.30 0.32 0.34 1
+	+NAME brick57 - Copy - Copy
+	+ROT 90
+	+SHAPE slope
+-7 -86 -0.90 13 37 1 0.30 0.32 0.34 1
+	+NAME brick21 - Copy
+-51 -53 -1 44 3 30 0.25 0.22 0.20 1
+	+NAME brick64
+6 -53 -1 46 3 30 0.25 0.22 0.20 1
+	+NAME brick64 - Copy
+-7 -53 14 13 1 5 0.25 0.22 0.20 1
+	+NAME brick66
+	+ROT 90
+	+SHAPE bars
+-8 -62 13 14 9 1 0.25 0.22 0.20 1
+	+NAME brick64 - Copy
+5 -62 13 1 9 16 0.25 0.22 0.20 1
+	+NAME brick64 - Copy - Copy
+-8 -62 13 1 9 16 0.25 0.22 0.20 1
+	+NAME brick64 - Copy - Copy - Copy
+-7 -62 28 13 12 1 0.25 0.22 0.20 1
+	+NAME brick64 - Copy - Copy - Copy - Copy
+-8 -62 13 14 1 16 0.25 0.22 0.20 1
+	+NAME brick64 - Copy - Copy - Copy - Copy - Copy
+-32 -50 0 12 1 8 0 0.15 0.26 1
+	+NAME brick60
+	+ROT 270
+-20 -49 0 3 6 4 0 0.15 0.26 1
+	+NAME brick63
+-20 -45 0 3 3 4 0 0.15 0.26 1
+	+NAME brick64
+	+SHAPE cylinder
+-35 -49 0 3 6 4 0 0.15 0.26 1
+	+NAME brick63 - Copy
+-35 -45 0 3 3 4 0 0.15 0.26 1
+	+NAME brick64 - Copy
+	+SHAPE cylinder
+-32 -50 0 12 7 1 0 0.15 0.26 1
+	+NAME brick60 - Copy
+	+ROT 270
+-32 -50 1 5 7 1 0 0.15 0.26 1
+	+NAME brick60 - Copy - Copy
+	+ROT 270
+-25 -50 1 5 7 1 0 0.15 0.26 1
+	+NAME brick60 - Copy - Copy - Copy
+	+ROT 270
+-34.50 -44 4 2 2 1 0 0.15 0.26 1
+	+NAME brick70
+	+SHAPE dome
+-19.50 -44 4 2 2 1 0 0.15 0.26 1
+	+NAME brick70 - Copy
+	+SHAPE dome
+-44 -47 0 1 1 12 0.25 0.22 0.20 1
+	+NAME brick73
+	+SHAPE pole
+-44 -47 11 1 1 1 0.17 0.08 0.47 1
+	+NAME brick74
+	+SHAPE flag
+-6 11 -0.90 13 37 1 0.30 0.32 0.34 1
+	+NAME brick21 - Copy
+19 -13 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35 - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE pole
+18.50 -13.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43 - Copy - Copy
+	+SHAPE dome
+22 -13 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE pole
+21.50 -13.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43 - Copy - Copy - Copy
+	+SHAPE dome
+25 -13 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE pole
+24.50 -13.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43 - Copy - Copy - Copy - Copy
+	+SHAPE dome
+28 -13 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE pole
+27.50 -13.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43 - Copy - Copy - Copy - Copy - Copy
+	+SHAPE dome
+12 -18 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35 - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE pole
+11.50 -18.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43 - Copy - Copy
+	+SHAPE dome
+16 -13 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE pole
+15.50 -13.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43 - Copy - Copy - Copy - Copy
+	+SHAPE dome
+31 -13 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE pole
+30.50 -13.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43 - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE dome
+34 -13 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE pole
+33.50 -13.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43 - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE dome
+37 -13 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE pole
+36.50 -13.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE dome
+40 -13 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE pole
+43 -13 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE pole
+46 -13 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE pole
+49 -13 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE pole
+39.50 -13.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE dome
+42.50 -13.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE dome
+45.50 -13.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE dome
+48.50 -13.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE dome
+17 -17 4 33 3 0.30 0.37 0.46 0.55 1
+	+NAME brick56 - Copy
+	+ROT 90
+	+SHAPE plate
+12 -15 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE pole
+11.50 -15.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43 - Copy - Copy - Copy
+	+SHAPE dome
+13 -13 0 1 1 4 0.25 0.22 0.20 1
+	+NAME brick35 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+SHAPE pole
+12.50 -13.50 3 2 2 1 0.87 0 0.05 1
+	+NAME brick43 - Copy - Copy - Copy - Copy - Copy
+	+SHAPE dome
+51 -53 -1 1 54 30 0.25 0.22 0.20 1
+	+NAME brick64 - Copy - Copy
+50 -51 -0.30 1 101 0.30 0.19 0.06 0.02 1
+	+NAME brick111
+	+ROT 180
+	+SHAPE plate
+20 -50 19 1 29 10 0.30 0.32 0.34 1
+	+NAME brick23 - Copy - Copy - Copy
+20 -22 19 31 1 10 0.30 0.32 0.34 1
+	+NAME brick23 - Copy - Copy - Copy - Copy
+-2 1 4 3 3 1 0.19 0.06 0.02 1
+	+NAME brick114
+	+SHAPE spawnpoint
+-2 -5 4 3 3 1 0.19 0.06 0.02 1
+	+NAME brick114 - Copy
+	+ROT 180
+	+SHAPE spawnpoint
+1 -2 4 3 3 1 0.19 0.06 0.02 1
+	+NAME brick114 - Copy - Copy
+	+ROT 90
+	+SHAPE spawnpoint
+-5 -2 4 3 3 1 0.19 0.06 0.02 1
+	+NAME brick114 - Copy - Copy - Copy
+	+ROT 270
+	+SHAPE spawnpoint
+-2 -2 5 3 3 0.50 0.19 0.06 0.02 1
+	+NAME brick118
+51 20 -1 1 30 30 0.25 0.22 0.20 1
+	+NAME brick64 - Copy - Copy - Copy
+51 1 19 1 19 10 0.25 0.22 0.20 1
+	+NAME brick64 - Copy - Copy - Copy - Copy
+60 -1 0 1 21 4 0.96 0.96 0.96 1
+	+NAME brick123
+	+SHAPE bars
+52 19 0 9 1 4 0.96 0.96 0.96 1
+	+NAME brick123 - Copy
+	+ROT 270
+	+SHAPE bars
+51 -1 -0.30 10 21 0.30 0.19 0.06 0.02 1
+	+NAME brick111 - Copy
+	+ROT 180
+	+SHAPE plate
+52 -1 0 9 1 4 0.96 0.96 0.96 1
+	+NAME brick123 - Copy - Copy
+	+ROT 270
+	+SHAPE bars
+57 -1 -571 4 4 571 0.19 0.06 0.02 1
+	+NAME brick127
+	+SHAPE cylinder
+57 15 -571 4 4 571 0.19 0.06 0.02 1
+	+NAME brick127 - Copy
+	+SHAPE cylinder
+52 -1 19 14 21 0.30 0.87 0 0.05 1
+	+NAME brick130
+	+SHAPE vent
+60 19 3.50 1 1 15.50 0.96 0.96 0.96 1
+	+NAME brick131
+	+SHAPE pole
+60 -1 3.50 1 1 15.50 0.96 0.96 0.96 1
+	+NAME brick131 - Copy
+	+SHAPE pole
+52 19 4 2 1 15 0.87 0 0.05 1
+	+NAME brick134
+	+ROT 180
+	+SHAPE slope
+52 -1 4 2 1 15 0.87 0 0.05 1
+	+NAME brick134 - Copy
+	+ROT 180
+	+SHAPE slope
+

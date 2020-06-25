@@ -1,0 +1,89 @@
+B R I C K  W O R K S H O P  V0.2.0.0
+
+0 0 0
+0.20 0.22 0.25 1
+0 0.34 0.66
+30
+100
+
+-2 -3 0 7 7 2 0.61 0.57 0.57 1
+	+NAME brick8
+-1 -2 2 5 5 2 0.61 0.57 0.57 1
+	+NAME brick8 - Copy
+0 -1 4 3 3 3 0.96 0.96 0.96 0.20
+	+NAME brick8 - Copy - Copy
+0 -1 7 3 3 0.50 0.89 0.89 0.86 1
+	+NAME brick8 - Copy - Copy - Copy
+	+LIGHT 0 0 0 255
+-19 -10 -4 4 20 4 0.25 0.22 0.20 1
+	+NAME brick16
+-23 -8 -4 4 16 4 0.25 0.22 0.20 1
+	+NAME brick16 - Copy
+-27 -4 -4 4 7 4 0.25 0.22 0.20 1
+	+NAME brick16 - Copy - Copy
+-31 -2 -4 4 4 4 0.25 0.22 0.20 1
+	+NAME brick16 - Copy - Copy - Copy
+-51 -1 -2 20 2 2 0.91 0.39 0.09 1
+	+NAME brick16 - Copy - Copy - Copy - Copy
+-54 -1 -2 3 2 2 0.91 0.39 0.09 0.78
+	+NAME brick16 - Copy - Copy - Copy - Copy - Copy
+-57 -1 -2 3 2 2 0.91 0.39 0.09 0.55
+	+NAME brick16 - Copy - Copy - Copy - Copy - Copy - Copy
+-60 -1 -2 3 2 2 0.91 0.39 0.09 0.39
+	+NAME brick16 - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+-63 -1 -2 3 2 2 0.91 0.39 0.09 0.31
+	+NAME brick16 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+-113 -1 -2 50 2 2 0.91 0.39 0.09 0
+	+NAME brick16 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+-125 -1 -2 3 2 2 0.91 0.39 0.09 0.78
+	+NAME brick16 - Copy - Copy - Copy - Copy - Copy - Copy
+-122 -1 -2 3 2 2 0.91 0.39 0.09 0.55
+	+NAME brick16 - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+-119 -1 -2 3 2 2 0.91 0.39 0.09 0.39
+	+NAME brick16 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+-116 -1 -2 3 2 2 0.91 0.39 0.09 0.31
+	+NAME brick16 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+-204 -1 -2 79 2 2 0.91 0.39 0.09 1
+	+NAME brick16 - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+-178 -1 -2 2 19 2 0.91 0.39 0.09 1
+	+NAME brick16 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+-180 18 -2 6 6 2 1 0.77 0 1
+	+NAME brick16 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+-206 3 -2 26 59 68 0.36 0.11 0.05 1
+	+NAME brick16 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+-181 39 66 1 1 5 0.17 0.08 0.47 1
+	+NAME brick34
+-181 38 71 1 1 2 0.17 0.08 0.47 1
+	+NAME brick34 - Copy
+-181 37 73 1 1 2 0.17 0.08 0.47 1
+	+NAME brick34 - Copy - Copy
+-181 33 75 1 4 1 0.17 0.08 0.47 1
+	+NAME brick34 - Copy - Copy - Copy
+-181 32 73 1 1 2 0.17 0.08 0.47 1
+	+NAME brick34 - Copy - Copy - Copy
+-181 31 71 1 1 2 0.17 0.08 0.47 1
+	+NAME brick34 - Copy - Copy
+-181 30 66 1 1 5 0.17 0.08 0.47 1
+	+NAME brick34 - Copy
+-193 54 66 4 4 4 0.96 0.96 0.96 1
+	+NAME brick42
+-192 55 70 2 2 1 0.30 0.18 0.57 0.71
+	+NAME brick43
+	+SHAPE dome
+-206 -9 -2 2 16 2 0.91 0.39 0.09 1
+	+NAME brick16 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+-231 -11 -2 32 2 2 0.91 0.39 0.09 1
+	+NAME brick16 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+-198 -20 -2 26 16 137 0.36 0.11 0.05 1
+	+NAME brick16 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+-209 -43 -2 26 16 159 0.36 0.11 0.05 1
+	+NAME brick16 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+-203 -73 -2 26 16 180 0.36 0.11 0.05 1
+	+NAME brick16 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+-216 29 66 14 4 29 0.87 0 0.05 1
+	+NAME brick50
+	+ROT 180
+	+SHAPE slope
+	+LIGHT 0 0 0 255
+
+>SLOT Normal Sword

@@ -1,0 +1,37 @@
+BIG  UPDATE:
+-Map more large now.
+-Added sword givers now you can find swords in map and pick them up. Damages of swords varying.
+-Shields and heal pads added.
+-Im still trying to fix  small lighting bug.
+-Shop added now you can buy more powerful swords. For opening Shop write this to chat = !shop
+Please message me if you encounter any bugs.
+
+RULES:
+Brickhill rules(no swearing etc.)
+And have fun no another rule lol
+
+Thanks for 50+ visits .
+
+Also when i finish this project i will also make another project similar to this but it will be more original :3.
+
+QUESTION ANSWER IS BELOW:
+
+Do you converted rbxl file to brk file?
+-No. I didn't but  i planning coding something like that
+
+Is theres lag?
+Sometimes little lag can happen but it can't ruin your fun its really unnoticable. Also if you are experincing lag please contact with your internet service provider i can't do anything about that if you are only experincing lag.
+
+Map is too small, why?
+
+Beacuse i was trying much as accurate but sometimes it will be hard and i can't do fully map.
+
+People with lag problems close webpages and other applications using internet.
+
+Also be sure your internet speed is higher than 3mbps.
+
+Thanks for supporting.!!!
+
+
+
+Thanks for better sword scripts: SmartLion
